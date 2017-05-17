@@ -1,0 +1,33 @@
+img {
+  position: absolute;
+  top: 200px;
+  right: 820px;
+  width: 272px;
+  height: 92px;
+
+}
+input{
+  position: absolute;
+  top: 300px;
+  right: 760px;
+  width: 372px;
+  height: 32px;
+}
+button{
+
+right: 960px;
+top: 1000px;
+  width: 142px;
+  height: 32px;
+}
+button1{
+
+  top: 1000px;
+  right: 60px;
+
+}
+button2{
+
+  top: 100px;
+  right: 960px;
+}
